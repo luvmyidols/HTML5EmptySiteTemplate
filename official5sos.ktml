@@ -1,0 +1,498 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="ie=edge;chrome=1">
+		<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+		<link rel="shortcut icon" type="image/x-icon" href="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/favicon.png">
+		<link type="text/css" rel="stylesheet" media="all" href="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/css11/layout5.css">
+
+		<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/jquery-1.10.2.min.js"></script>
+		<!--[if (lt IE 9) & !(IEMobile)]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<link type="text/css" rel="stylesheet" media="all" href="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/css3/ie.css">
+		<![endif]-->
+		<!--[if IE 7]>
+			<link type="text/css" rel="stylesheet" media="all" href="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/css3/ie7.css">
+		<![endif]-->
+		<!--[if (gte IE 6)&(lte IE 8)]>
+			<script src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/selectivizr.js"></script>
+		<![endif]-->
+		
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Home - 5 Seconds of Summer</title>
+<link rel="canonical" href="http://www.5sos.com/home/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Home - 5 Seconds of Summer" />
+<meta property="og:url" content="http://www.5sos.com/home/" />
+<meta property="og:site_name" content="5 Seconds of Summer" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//umg.theappreciationengine.com' />
+<link rel='dns-prefetch' href='//s3.amazonaws.com' />
+<link rel='dns-prefetch' href='//www.youtube.com' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//w.soundcloud.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="5 Seconds of Summer &raquo; Feed" href="http://www.5sos.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="5 Seconds of Summer &raquo; Comments Feed" href="http://www.5sos.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="5 Seconds of Summer &raquo; Home Comments Feed" href="http://www.5sos.com/home/feed/" />
+<link rel='stylesheet' id='colorbox-css'  href='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-subscriptions//colorbox/colorbox.css?ver=88726d64dfa49586c1b2c540ab9d6644' type='text/css' media='all' />
+<link rel='stylesheet' id='ae_frontend_css-css'  href='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/appreciation-engine-social-sign-in/css/ae_frontend.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-modal-css-css'  href='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/appreciation-engine-social-sign-in/libraries/jquery-modal/jquery.modal.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='epoch-light-css'  href='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/epoch//assets/css/front/light.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='push_ucid_bar_styles-css'  href='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-ucid-bar/push_ucid_bar_style.css?ver=1.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-subscriptions//colorbox/jquery.colorbox.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-ucid-bar/js/push_ucid_bar_activate.js'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-ucid-bar/js/push_ucid_bar_hover.js'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.5.1'></script>
+<script type='text/javascript' src='https://umg.theappreciationengine.com/w-v1.2/js/4?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AEJSWP = {"ajaxurl":"http:\/\/www.5sos.com\/wp-admin\/admin-ajax.php","ajax_action_login":"ae_social_signin_user_login_ajax","redirect_action_login":"ae_social_signin_user_login_redirect","ajax_action_get_logout_url":"ae_social_signin_get_logout_url_ajax","ajax_action_send_user_optins":"ae_social_signin_send_user_optins","ajax_action_user_get_country":"ae_social_signin_user_get_country","ajax_action_user_check_captcha":"ae_social_signin_user_check_captcha","login_status_messages":["fail","WordPress user created & logged-in","WordPress user found & logged-in","WordPress user found, but not logged-in (logged-in session disabled)","WordPress user created, but not logged-in (logged-in session disabled)","WordPress user record creation disabled"],"login_fail_status_messages":["","Unspecified error","No access token","AE API error","Missing miniumum required fields (AEUserID, Username or Email)","More than 1 WordPress user record with this AE_User_ID! Doing nothing - contact an admin!","Cannot create the WordPress user account - you have not been signed-in.<br\/><br\/>This can occur if you have another Admin user account on this WordPress install with the same email or username.<br\/><br\/>Please signup with a different email and\/or username.","A WordPress user is already logged in, please log-out first","Email not yet verified"],"ae_js_path":"https:\/\/umg.theappreciationengine.com\/w-v1.2\/js\/4","debug":"","flow_type":"detect","extra_fields_screen":"after","extra_fields":{"email":{"required":true,"label":"email"},"username":{"required":true,"label":"username"},"password":{"label":"password"}},"minimum_age":"","analytics_tracking_delegate":"trackingDelegate.AEConnect","services":"facebook,twitter,youtube,instagram,spotify,google","flow_css":"https:\/\/s3.amazonaws.com\/umg-ae-static-assets\/umg-ae-wp-global-default.css","verify_email":"1","flow_text":{"login_header":"Sign in with your social network account","register_header":"Sign in with your social network account","error_header":"Sorry, there seems to be a problem","add_info_header":"Additional Information","add_info_button":"Submit","forgot_password_link":"Forgot password?","recover_password_link":"Recover Password","have_account_link":"Already have an account?","need_help_link":"need help?","create_account_link":"create an account","verify_email_header":"Verify Email","verify_email_sent":"A verification email will be sent to","verify_email_instructions":"Please click the link in the email to confirm your address and continue.","verify_email_success_button":"OK","verify_email_retry_button":"Retry","verify_email_success_header":"Success.","verify_email_success_message":"Your email was successfully verified.","verify_email_error_header":"Sorry.","verify_email_error_message":"That is not a valid activation url, or the url has expired. Please double check your email, or trigger a new activation email.","reset_pw_header":"Reset Password","reset_pw_sent":"A verification email will be sent to","reset_pw_instructions":"Please click the link in the email to confirm your address and reset your password.","reset_pw_button":"Submit","reset_pw_confirm_header":"Reset Password - Confirm","reset_pw_confirm_instructions":"Please enter a new password...","reset_pw_confirm_button":"Confirm","reset_pw_done_header":"Reset Password - Done!","reset_pw_done_message":"Your password has been reset.","reset_pw_done_button":"OK"},"no_email":"","hide_email_form":"1","social_first":"1","ae_logout_url":"https:\/\/umg.theappreciationengine.com\/brand\/umg\/logout?auth_method=direct&return_url=http%3A%2F%2Fwww.5sos.com%2Fhome%2F","ae_logout_url_bare":"https:\/\/umg.theappreciationengine.com\/brand\/umg\/logout?auth_method=direct","wp_logout_url":"https:\/\/umg.theappreciationengine.com\/brand\/umg\/logout?auth_method=direct&return_url=http:\/\/www.5sos.com\/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwww.5sos.com%2Fhome%2F&_wpnonce=d0a066eda9","return_url":"http:\/\/www.5sos.com\/wp-admin\/admin-ajax.php?action=ae_social_signin_user_login_redirect&return_url=http%3A%2F%2Fwww.5sos.com%2Fhome%2F","login_redirect_url":"","user_logged_in":"","email_format":{"background_color":"","font_size":"14","font_family":"arial","font_color":"#000000","show_header":"1","header_background_color":"#474747","header_font_color":"","image_url":"https:\/\/s3.amazonaws.com\/umg-ae-static-assets\/1x1px.gif","reset_pw_email_subject":"Password Reset Request for www.5sos.com","reset_pw_email_message":"We have received a password reset request for this e-mail address to login to the above site.  Click the following link to authorise and receive your new password. <br><br>  For help please contact info@umusic.com <br><br> Privacy Policy: www.umusic.co.uk\/privacy.html","reset_pw_email_link":"Reset Password","verify_email_subject":"Verify  Email Request for www.5sos.com","verify_email_message":"Click the link below to verify that you used this email address to login or register. <br><br> We need your verification to ensure that no-one is using your email address without your permission. <br><br> You will not be sent any marketing unless you opt in to do so","verify_email_link":"Verify Email","show_footer":"1","footer_background_color":"#474747","footer_font_color":"","logo_img_url":"https:\/\/s3.amazonaws.com\/umg-ae-static-assets\/umg-logo.jpg","logo_link":"","copyright":"Universal Music Group"},"sso_type":"application","validation_target":"","ajax_login":"","ajax_update_class":"ae-wp-ajax-update","disable_logged_in_session":"1","disable_wp_user_record":"1","disable_optins_hook":"","logged_in_salutation":"Welcome, {USERNAME}","auth_connected":"Already Connected","widget_cta":"Sign In","profile_link":"Profile","profile_link_url":"","logout_link":"Sign Out","extra_info":{"global":{"bottom":{"text":"<div id=\"ae-power-by\" style=\" overflow: auto; display: block; margin: 0 auto; line-height: 30px; font-size: 9px; padding: 0px 0 12px; text-align: center;\"><img src=\"https:\/\/s3.amazonaws.com\/umg-ae-static-assets\/UMGUK_logo.png\" style=\" max-width: 60px; margin: 0px 5px 5px 0; display: inline-block;\"><p style=\" margin: 0 0 0 5px; color: #595959; display: inline-block;\">Social Login Powered by Appreciation Engine<\/p><\/div><a href=\"http:\/\/www.umusic.co.uk\/privacy.html\" target=\"_blank\">Privacy Policy<\/a> | <a href=\"http:\/\/www.umusic.co.uk\/terms.html\" target=\"_blank\">Terms & Conditions<\/a>"}}},"date_format":"DD-MM-YYYY","aejsready_handlers":[],"custom_forms":[],"safari_incognito_error":"Hello, trying to sign up?<br\/>It looks like you're using private browsing mode on Safari. You can disable private browsing on Safari, or use private browsing in Chrome\/Firefox to sign up!","cookies_disabled_error":"Hello, trying to sign up?<br\/>It looks like cookies are disabled in your browser. Enable cookies to sign up!"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/appreciation-engine-social-sign-in/js/min/ae_wp-min.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/appreciation-engine-social-sign-in/libraries/jquery-modal/jquery.modal.min.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript' src='https://s3.amazonaws.com/umg-analytics/umgaal.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript' src='https://player.vimeo.com/api/player.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript' src='https://w.soundcloud.com/player/api.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UMGAALWP = {"debug_enabled":"0","plugins":{"ae_connect":true,"umg_ecrm":false,"ae_social_follow":false,"nextgen_gallery":false,"login_for_content":false,"subscriptions":true,"new_royalslider":false,"add_this":false,"umg_live":false,"epoch":true,"gigpress":false,"bands_in_town":false,"revslider":false,"stackla":false},"services":{"you_tube":true,"vimeo":true,"soundcloud":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/umg-aal/js/umg-aal-wp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://www.5sos.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.5sos.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://d3gem4y798w38.cloudfront.net/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://www.5sos.com/?p=6' />
+<link rel="alternate" type="application/json+oembed" href="http://www.5sos.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.5sos.com%2Fhome%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.5sos.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.5sos.com%2Fhome%2F&#038;format=xml" />
+
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Jamie Salvage"});
+</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWLHZZ');</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VXPSB');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->	</head>
+	<body class="page page-id-6 page-template page-template-page-home page-template-page-home-php full-width custom-background-empty">
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=480333088652635&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<div id="ucid_bar"><div id="callToAction" class="lowerTab sso_loggedout"><img id="social_icons" src="http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-ucid-bar/images/sso_social_icons.png" alt="" width="54" height="16" /><div class="ae-wp-widget-container ae-wp-ajax-update" data-aewp-no-profile-link="1" data-aewp-no-logout-link="1" ><a class="ae-wp-widget-anchor" onclick="AEJSWP.incognitoHandler(event,'ae-widget');" href="#" data-ae-register-window="true" >Click to Sign-in</a></div></div></div>
+
+
+		<nav id="socialBar">
+			<div class="pageWrapper">
+				<a class="spotify overflowHidden" href="http://po.st/5SOSSpotify" target="_blank">Spotify</a>
+				<a class="twitter overflowHidden" href="http://www.twitter.com/5sos" target="_blank">Twitter</a>
+				<a class="facebook overflowHidden" href="https://www.facebook.com/5secondsofsummer" target="_blank">Facebook</a>
+				<a class="googleplus overflowHidden" href="https://plus.google.com/101769211068452272951/" rel="publisher" target="_blank">Google+</a>
+				<a class="youtube overflowHidden" href="http://www.youtube.com/user/hemmo1996" target="_blank">Youtube</a>
+				<a class="pinterest overflowHidden" href="http://www.youtube.com/user/5sosvevo" target="_blank">Vevo</a>
+				<a class="tumblr overflowHidden" href="http://5sos.tumblr.com/" target="_blank">Tumblr</a>
+				<a class="instagram overflowHidden" href="http://instagram.com/5sos" target="_blank">Instagram</a>
+				<div class="ssoButton"></div>
+			</div>
+		</nav>
+
+		<nav id="mainNav">
+			<div class="pageWrapper">
+				<h1><a class="overflowHidden" href="http://www.5sos.com/" title="5 Seconds of Summer" rel="home">5 Seconds of Summer - </a></h1>
+				<ul id="menu-menu-1" class="clearfix"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-18"><a href="http://www.5sos.com/home/">Home</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.5sos.com/news/">News</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.5sos.com/live/">Live</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="http://5sosf.am/5SOSStoresGeo">Store</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.5sos.com/videos/">Videos</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.5sos.com/photos/">Photos</a></li>
+<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539"><a href="http://www.5sos.com/newsletter/">Newsletter</a></li>
+<li id="menu-item-12010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12010"><a href="http://www.5sos.com/videos/?playlist=slfl">SLFL</a></li>
+<li id="menu-item-13870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13870"><a href="http://www.5sos.com/na-tour-app/">Tour App</a></li>
+</ul>			</div>
+			<div class="mobileNavControl">
+				<a class="overflowHidden" href="#">Close</a>
+			</div>
+		</nav>
+
+	<div id="pageBody" class="pageWrapper">
+
+		<section class="flexslider">
+			<h1><span>Latest News</span></h1>
+			<ul class="slides">
+								<li>
+					<article style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2017/05/5sos_bball_us.png) no-repeat center; background-size: cover;">
+						<a href="http://www.5sos.com/new-5sos-bball-tees/" title="New 5sos BBALL tees">
+							<div class="text">
+								<span>19 May 2017</span>
+								<h1><span>New 5sos BBALL tees</span></h1>
+							</div>
+							<img src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/spacer.gif" alt=" ">
+						</a>
+					</article>
+				</li>
+								<li>
+					<article style="background: url() no-repeat center; background-size: cover;">
+						<a href="http://www.5sos.com/places-go-%f0%9f%a4%98/" title="these are the places we go">
+							<div class="text">
+								<span>16 May 2017</span>
+								<h1><span>these are the places we go</span></h1>
+							</div>
+							<img src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/spacer.gif" alt=" ">
+						</a>
+					</article>
+				</li>
+								<li>
+					<article style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2017/05/5sos-places.jpg) no-repeat center; background-size: cover;">
+						<a href="http://www.5sos.com/summer-2017/" title="summer 2017">
+							<div class="text">
+								<span>15 May 2017</span>
+								<h1><span>summer 2017</span></h1>
+							</div>
+							<img src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/spacer.gif" alt=" ">
+						</a>
+					</article>
+				</li>
+								<li>
+					<article style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2017/05/mama.jpg) no-repeat center; background-size: cover;">
+						<a href="http://www.5sos.com/happy-mothers-day/" title="Happy Mother&#8217;s Day">
+							<div class="text">
+								<span>14 May 2017</span>
+								<h1><span>Happy Mother's Day</span></h1>
+							</div>
+							<img src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/spacer.gif" alt=" ">
+						</a>
+					</article>
+				</li>
+								<li>
+					<article style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2017/05/Screen-Shot-2017-05-18-at-1.12.31-AM.png) no-repeat center; background-size: cover;">
+						<a href="http://www.5sos.com/magazine-msg-2016/" title="A Magazine // MSG 2016">
+							<div class="text">
+								<span>12 May 2017</span>
+								<h1><span>A Magazine // MSG 2016</span></h1>
+							</div>
+							<img src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/spacer.gif" alt=" ">
+						</a>
+					</article>
+				</li>
+							</ul>
+		</section>
+
+		<aside class="clearfix">
+
+
+			<article id="musicCarousel" class="box flexslider">
+				<ul class="slides">
+				<li style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2015/10/Album-2.jpg) ;">
+								  <h1><span>Sounds Good Feels Good</span></h1>
+								  <a href="http://5sosf.am/bI5RGq"><span>OUT NOW</span></a>
+							  </li><li style="background: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2015/10/Hey-Everybody.jpg) ;">
+								  <h1><span>Hey Everybody!</span></h1>
+								  <a href="http://5sosf.am/wSHlMD"><span>DOWNLOAD</span></a>
+							  </li>				</ul>
+			</article>
+			<article class="box tweets" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/article-bg-2.jpg);">
+				<h1><span>Latest Tweets</span></h1>
+				<ul>
+					<li id="tweet1" class="tweet"><p>RT <a target="_blank" href="https://www.twitter.com/5SOS_Daily">@5SOS_Daily</a>: TB to 5sos performing at the 2014 <a target="_blank" href="https://twitter.com/search?q=BBMAs">#BBMAs</a>!<br />
+Check out this year’s show, tonight on ABC! <a target="_blank" href="https://t.co/myrnNYGMEl">https://t.co/myrnNYGMEl</a></p>
+<div id="epoch-width-sniffer"></div></li><li id="tweet2" class="tweet"><p><a target="_blank" href="https://t.co/rfvHo01caz">https://t.co/rfvHo01caz</a></p>
+<div id="epoch-width-sniffer"></div></li><li id="tweet3" class="tweet"><p>new bball tees xx <a target="_blank" href="https://t.co/ursaY1APe7">https://t.co/ursaY1APe7</a> <a target="_blank" href="https://t.co/12jUmZg9Q8">https://t.co/12jUmZg9Q8</a></p>
+<div id="epoch-width-sniffer"></div></li><li id="tweet4" class="tweet"><p>RT <a target="_blank" href="https://www.twitter.com/Michael5SOS">@Michael5SOS</a>: most days consist of competitively racing <a target="_blank" href="https://www.twitter.com/McKinleyKitts">@McKinleyKitts</a> in Mario kart</p>
+<div id="epoch-width-sniffer"></div></li><li id="tweet5" class="tweet"><p>RT <a target="_blank" href="https://www.twitter.com/Michael5SOS">@Michael5SOS</a>: I need a new good TV show to watch that&#8217;s not 13 reasons, prison break, black mirror, this is us, or kardashians (lol)</p>
+<div id="epoch-width-sniffer"></div></li>				</ul>
+			</article>
+
+		</aside>
+
+	</div>
+
+	<div id="isotopeCont">
+
+		<article class="box video" style="background-image: url(http://img.youtube.com/vi/lrzn7l94170/maxresdefault.jpg);">
+						<h1><span>Latest Videos</span></h1>
+						<div class="frameCont"><a href="/videos/" title="SLFL // AUS + MEXICO"></a></div>
+						<a href="/videos/" title="SLFL // AUS + MEXICO"><span>SLFL // AUS + MEXICO..</span></a>
+					</article>		<article class="box video" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/article-bg-8.jpg);">
+			<h1><span>Live</span></h1>
+						<div class="frameCont"><a href="/live/"></a></div>
+			<a href="/live"><span>View all dates</span></a>
+		</article>
+		<article class="box instagram" style="background-image: url(https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/18722418_168593077006940_448959940837507072_n.jpg);">
+						<h1><span>Instagram</span></h1>
+						<div class="mask"><a href="http://instagram.com/5sos" title="Bewts" class="fancybox"></a></div>
+						<a href="http://instagram.com/5sos" title="Bewts" class="fancybox"><span>Bewts..</span></a>
+					</article>		<article class="box countdown">
+			<h1 style="line-height:17px;"><span style="padding:10px 40px 0 40px;">GIRLS TALK BOYS</span></h1>
+			<div id="countdown"></div>
+		</article>
+		<article class="box" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/images/5sos-slfl.jpg);">
+			<h1><span>SLFL</span></h1>
+			<a href="http://www.5sos.com/videos/?playlist=slfl" target="_blank"><span>VIDEO DIARY</span></a>
+		</article>
+				<article class="box" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2014/05/5sos-store-image.jpg);">
+			<h1><span>Store</span></h1>
+			<a href="http://5sosf.am/5SOSStores" target="_blank"><span>Visit the store</span></a>
+		</article>
+				<article class="box" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2014/05/3-new2.jpg);">
+			<h1><span>Newsletter</span></h1>
+			<a href="/newsletter/"><span>Sign up</span></a>
+		</article>
+				<article class="box" style="background-image: url(http://d3gem4y798w38.cloudfront.net/wp-content/uploads/2014/05/07.gif);">
+			<h1><span>5SOS Tumblr</span></h1>
+			<a href="http://5sos.tumblr.com/" target="_blank"><span>Visit our tumblr</span></a>
+		</article>
+
+	</div>
+<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/jquery.plugin.min.js"></script>
+<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/jquery.countdown.min.js"></script>
+<script type="text/javascript">
+	var container = jQuery('#isotopeCont');
+	container.isotope({
+	  itemSelector: '.box'
+	});
+
+	var launchTime = new Date();
+    launchTime = new Date(2016, 7 - 1, 15, 00, 01);
+
+    jQuery('#countdown').countdown({until: launchTime,
+        layout: '<ul class="clearfix">{o<}<li>{on} {ol}</li>{o>}' +
+        '{d<}<li class="days clearfix"><span>{dn}</span> {dl}</li>{d>}{h<}<li><span>{hn}</span>HOURS</li>{h>}' +
+        '{m<}<li><span>{mn}</span>MINUTES</li>{m>}{s<}<li><span>{sn}</span>SECONDS</li>{s>}</ul>'
+    });
+    // jQuery('#countdown').countdown({until: launchTime, timezone: +1,
+    //     layout: '<ul class="clearfix">{o<}<li>{on} {ol}</li>{o>}' +
+    //     '{d<}<li class="days clearfix"><span>{dn}</span> {dl}</li>{d>}{h<}<li><span>{hn}</span>HOURS</li>{h>}' +
+    //     '{m<}<li><span>{mn}</span>MINUTES</li>{m>}{s<}<li><span>{sn}</span>SECONDS</li>{s>}</ul>'
+    // });
+
+</script>
+
+
+		<footer id="pageFooter">
+			<div class="footerWrapper clearfix">
+				<div class="left">
+					<p>&copy; 2017 Capitol Records / 5SOS.</p>
+					<ul>
+						<li><a href="http://www.umusic.co.uk/cookie-info.html" target="_blank">COOKIE INFO</a> <span>|</span></li>
+						<li><a href="http://www.umusic.co.uk/terms.html" target="_blank">WEBSITE TERMS OF USE</a> <span>|</span></li>
+						<li><a href="http://www.umusic.co.uk/home/safe.php" target="_blank">SAFE SURF GUIDE</a> <span>|</span></li>
+						<li><a href="http://www.umusic.co.uk/privacy.html" target="_blank">PRIVACY POLICY</a> <span>|</span></li>
+						<li><a href="http://www.prettygooddigital.com" target="_blank">A PRETTY GOOD WEBSITE DESIGN</a></li>
+					</ul>
+				</div>
+				<div class="right clearfix">
+					<div class="fb-like" data-href="https://www.facebook.com/5secondsofsummer?fref=ts" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					<h1><a href="http://www.hiorheyrecords.com/" target="_blank" class="overflowHidden">Hi or Hey Records</a></h1>
+				</div>
+			</div>
+		</footer>
+		<script type="text/javascript"> var cdn = 'http://www.5sos.com/wp-content/themes/5secondsofsummer2/assets'; </script>
+		<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/jquery.flexslider-min.js"></script>
+		<script type="text/javascript" src="http://d3gem4y798w38.cloudfront.net/wp-content/themes/5secondsofsummer2/assets/scripts/site_v2.js"></script>
+		
+		
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWLHZZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5VXPSB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script id="epoch-comment-template" type="text/x-handlebars-template">
+
+    <div id="comment-{{comment_ID}}" data-comment-id="{{comment_ID}}">
+        <article id="div-comment-{{comment_ID}}" class="epoch-comment-body {{comment_classes}}">
+            <footer class="epoch-comment-meta">
+                <div class="epoch-comment-author">
+                    <div class="epoch-comment-author-avatar">
+                        {{#if comment_author_url}}
+                            {{epochLink comment_author_url author_avatar 'author_url_link_title' 'epoch-author-avatar' '_blank' 'nofollow'}}
+                        {{else}}
+                            {{{author_avatar}}}
+                        {{/if}}
+                    </div>
+                       {{#if comment_author_url}}
+                            {{epochLink comment_author_url comment_author 'author_url_link_title' 'epoch-author-link' '_blank' 'nofollow'}}
+                       {{else}}
+                            {{{comment_author}}}
+                        {{/if}}
+                      <span class="epoch-divide">&#183;</span>
+                      {{epochLink comment_link '<time datetime="comment_date">-comment_date-</time>' 'comment_link_title' 'epoch-comment-link'}}
+                </div><!-- .comment-author -->
+
+                {{#unless comment_approved}}
+                    <p class="epoch-comment-awaiting-moderation">{{epochTranslation 'awaiting_moderation'}}</p>
+                {{/unless}}
+            </footer><!-- .comment-meta -->
+
+            <div class="epoch-comment-content">
+                {{{comment_content}}}
+            </div><!-- .comment-content -->
+            
+            {{#if front_moderation}}
+            <ul class="epoch-moderation-actions">
+                {{#unless approval_status}}
+                    <li class="epoch-approve" data-comment-id="{{comment_ID}}">
+                        {{{approve_link}}}
+                    </li>
+                {{/unless}}
+                {{!-- {{#if approval_status}}
+                    <li class="epoch-unapprove" data-comment-id="{{comment_ID}}">
+                        {{{unapprove_link}}}
+                    </li>
+                {{/if}}
+                --}}
+                <li class="epoch-trash" data-comment-id="{{comment_ID}}">
+                    {{{trash_link}}}
+                </li>
+                <li class="epoch-spam" data-comment-id="{{comment_ID}}">
+                    {{{spam_link}}}
+                </li>
+            </ul>
+            {{/if}}
+            <ul class="epoch-comment-actions">
+                {{#if reply_allowed}}
+                    <li class="epoch-reply" data-comment-id="{{comment_ID}}">
+                        {{{reply_link}}}
+                    </li>
+                {{/if}}
+            </ul>
+
+        </article><!-- .comment-body -->
+    </div>
+
+</script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/visibility.js/1.2.1/visibility.min.js?ver=1.0.14'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/epoch//assets/js/front/handlebars.js?ver=1.0.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var epoch_vars = {"api_url":"http:\/\/www.5sos.com\/epoch-api","submit_api_url":"http:\/\/www.5sos.com\/epoch-api?epochNonce=2c214bf5c5&action=submit_comment","alt_comment_count":null,"depth":"5","nonce":"2c214bf5c5","live_mode":"1","wrap_class":"epoch-wrapper","count_id":"epoch-count","wrap_id":"epoch-wrap","form_wrap":"epoch-commenting","form_id":"commentform","submit_id":"epoch-submit","comments_wrap":"epoch-comments","comments_template_id":"epoch-comment-template","nonce_field":"epochNonce","endpoint":"epoch-api","reply_link_id":"epoch-reply-link","sniffer":"epoch-width-sniffer","loading":"epoch-loading","epoch_options":{"theme":"light","threaded":false,"before_text":"","interval":15000,"order":"DESC","show_pings":false},"post_id":"6","user":{"author_avatar":"","comment_author_url":"","comment_author":""},"empty_avatar":"<img alt='' src='http:\/\/2.gravatar.com\/avatar\/?s=96&d=mm&r=g' srcset="http:\/\/2.gravatar.com\/avatar\/?s=192&d=mm&r=g 2x" class='avatar avatar-96 photo avatar-default' height='96' width='96' \/>"};
+var epoch_translation = {"awaiting_moderation":"Your comment is awaiting moderation.","comment_link_title":"Link to comment","reply":"Reply","reply_link_title":"Reply To This Comment","author_url_link_title":"Link to comment author's website","is_required":"is required","pending":"Comment Pending","comment_rejected":"Your comment was not accepted, please check that everything is filled out correctly."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/epoch//assets/js/front/epoch.min.js?ver=1.0.14'></script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-includes/js/wp-embed.min.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var VisitorCountry = {"ip":"37.47.43.110","code":"PL","name":"Poland"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://d3gem4y798w38.cloudfront.net/wp-content/plugins/visitor-country/visitor-country.js?ver=88726d64dfa49586c1b2c540ab9d6644'></script>
+	<script>
+		var push_subs_url = "http://www.5sos.com/wp-content/plugins/push-subscriptions/push_subs_form.php?returnUrl=%2F%2Fwww.5sos.com%2Fhome%2F";
+		var push_subs_auto_popup = false;
+	</script>
+	<script src="http://d3gem4y798w38.cloudfront.net/wp-content/plugins/push-subscriptions/js/push-subs-ui.js"></script>
+			<script>
+		var versaTag = {};
+		versaTag.id = "278"
+		versaTag.sync = 0
+		versaTag.dispType = "js"
+		versaTag.ptcl = "HTTP"
+		versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe"
+		//versaTag.mobile = 1
+		//VersaTag activity parameters include all conversion parameters including custom parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
+		versaTag.activityParams = {};
+		versaTag.retargetParams = {
+		// Static retargeting tags parameters. Syntax: "TagID":"ParamValue1", "TagID":"ParamValue1". ParamValue can be empty.
+		};
+		versaTag.dynamicRetargetParams = {
+		// Dynamic retargeting tags parameters. Syntax: "TagID":"ParamValue1", "TagID":"ParamValue1". ParamValue can be empty.
+		};
+		versaTag.conditionalParams = {
+		// Third party tags conditional parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
+		};
+		</script>
+		<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+		<noscript>
+		<iframe src="http://bs.serving-sys.com/BurstingPipe?
+		cn=ot&amp;
+		onetagid=278&amp;
+		ns=1&amp;
+		activityValues=$$
+		Value=[Value]0&amp;
+		OrderID=[OrderID]0&amp;
+		ProductID=[ProductID]&amp;
+		ProductInfo=[ProductInfo]&amp;
+		Quantity=[Quantity]&amp;$$&amp;
+		retargetingValues=$$&amp;
+		dynamicRetargetingValues=$$&amp;
+		acp=$$$$&amp;"
+		style="display:none;width:0px;height:0px"></iframe>
+		</noscript>
+		<!-- tracking code 29/07/2014 --><!-- start of tracking code -->
+<img src="http://tags.w55c.net/rs?id=af769444325449df82c32cc11cf94036&t=marketing" />
+
+<script>(function(){
+window._fbds = window._fbds || {};
+_fbds.pixelId = 1454758574736309;
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1454758574736309&amp;ev=NoScript" /></noscript>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 979879715;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979879715/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- end of tracking code -->
+		<script language='JavaScript1.1' src='//pixel.mathtag.com/event/js?mt_id=841043&mt_adid=149635&v1=&v2=&v3=&s1=&s2=&s3='></script>
+	<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=4';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
